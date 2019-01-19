@@ -299,9 +299,16 @@ main#home h1 {
 }
 
 /* ABOUT PAGE //////////////////////////*/
+#about > h1 {
+  text-align: center;
+  line-height: 2;
+}
+
 #about > h2 {
   background: #172530;
-  border-radius: 12px; }
+  border-radius: 12px;
+  text-align: center; 
+}
 
 .about-info {
   display: grid;
@@ -359,7 +366,8 @@ main#home h1 {
 
 /* projects page ////////////////////////////////////*/
 #my-project > h1 {
-  text-align: center; 
+  text-align: center;
+  line-height: 2; 
 }
 
 #my-project > h2 {
@@ -463,6 +471,7 @@ div.projects {
 /* Contact Page /////////////////////////////////////*/
 #contact > h1 {
   text-align: center;
+  line-height: 2;
 }
 
 #contact > h2 {
