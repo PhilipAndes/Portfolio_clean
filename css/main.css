@@ -524,13 +524,13 @@ div.projects {
 }
 
 .btn-dark {
-  background: black;
+  background: #000;
   color: #fff; 
 }
 
 .btn-light {
-  background: #729bbb;
-  color: #333; 
+  background: #000;
+  color: #fff; 
 }
 
 /* Footer /////////////////////////////////////////////////*/
