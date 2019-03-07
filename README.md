@@ -19,3 +19,8 @@ The projects page, shows all my projects so far, and beneath i've added my code 
 Will be updating my portfolio regulary as I keep learning more and more everyday.
 
 credits to: https://www.youtube.com/watch?v=gYzHS-n2gqU&t=114s
+
+
+Checkout my final result: 
+
+http://philipandes.com/
