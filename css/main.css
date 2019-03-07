@@ -405,7 +405,7 @@ div.projects {
   display: grid;
   grid-gap: 30px;
   grid-template-areas: 
-  'skill1 skill2' 
+  'skill1 skill2'
   'skill3 skill4';
   grid-template-columns: repeat(2, 1fr); 
 }
@@ -425,6 +425,7 @@ div.projects {
 .skill-info .skill-4 {
   grid-area: skill4; 
 }
+
 
 .skill-info .skills {
   text-align: center;
