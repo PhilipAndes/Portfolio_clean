@@ -4,7 +4,7 @@ Started coding: dec, 2018.
 
 After 1 week in the Bootcamp in january 2019, we were assigned to make a modern portfolio to publish our projects on and show to world who you are. 
 
-I followed a really learningfull video of traversy media. 
+I followed video from traversy media on youtube. 
 
 This was the first time i worked with SASS. I had to set it all back to regular CSS because i couldn't put it online on Heroku somehow. 
 
@@ -14,13 +14,13 @@ The landingpage, is a guy standing on a car watching to the stars. Which has the
 
 Ive added some information about myself and the things I like to do. 
 
-The projects page, shows all my projects so far, and beneath i've added my code skills and certificates. 
+The projects page, shows all my projects so far, and beneath i've added my code skills and certificates i've earned. 
 
 Will be updating my portfolio regulary as I keep learning more and more everyday.
 
 credits to: https://www.youtube.com/watch?v=gYzHS-n2gqU&t=114s
 
 
-Checkout my final result: 
+Checkout the final result: 
 
 http://philipandes.com/
